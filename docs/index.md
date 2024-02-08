@@ -1,12 +1,16 @@
 # Welcome y'all
 
+hey i'm Hrushikesh Dokala,
 
-My portfolio site [portfolio](https://hrushikesh.xyz)
+currently working as an retrieval augmented generation. i'm a backend dev. i contribute to opensource.
 
 ## Writing
 
-## Thoughts
+- [Domain Name System](./writing/posts/dns.md)
+- [all you need is pydantic](./writing/posts/pydantic.md)
 
-## Open Source
 
-## Projects
+## Work History
+
+- Hack Club (open source)
+- MLJAR supervised

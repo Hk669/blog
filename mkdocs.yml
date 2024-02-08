@@ -1,16 +1,17 @@
-site_name: HK
+site_name: :)
 copyright: Copyright &copy; 2024 Hrushikesh Dokala
-repo_url: https://github.com/Hk669
+repo_url: https://github.com/Hk669/blog/
+edit_uri: edit/main/docs
 nav:
-  - Home: 'index.md'
-  - Blog:
-    - DNS: 'writing/posts/dns.md'
-    - Azure: 'writing/posts/azurewebapp.md'
+  - Home:
+    - Home: 'index.md'
   - Writing:
-    - "writing/index.md"
+    - DNS: 'writing/posts/dns.md'
+    - pydantic: 'writing/posts/pydantic.md'
 
 theme:
   name: material
+  logo: assets/logo.jpg
   features:
     - announce.dismiss
     - content.action.edit
@@ -61,3 +62,5 @@ extra:
       link: https://twitter.com/hrushikeshhhh
     - icon: fontawesome/brands/github
       link: https://github.com/Hk669
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/hrushikeshdokala/
