@@ -1,3 +1,15 @@
+---
+date: 2024-01-30
+categories:
+    - Computer Networks
+    - Web Developement
+slug: domain-name-system
+readtime: 12
+authors:
+  - Hrushikesh Dokala
+    
+---
+
 # Domain Name System
 
 > I think the basic to know before starting the web development, is to know how the web works.

@@ -1,17 +1,26 @@
-site_name: :)
+site_name: hk
 copyright: Copyright &copy; 2024 Hrushikesh Dokala
 repo_url: https://github.com/Hk669/blog/
+repo_name: Hk669/blog
 edit_uri: edit/main/docs
 nav:
   - Home:
     - Home: 'index.md'
+    - Writing: 'writing/index.md'
   - Writing:
-    - DNS: 'writing/posts/dns.md'
-    - pydantic: 'writing/posts/pydantic.md'
+    - writing: "writing/index.md"
+    - posts:
+      - DNS: 'writing/posts/dns.md'
+      - pydantic: 'writing/posts/pydantic.md'
+    # - categories:
+    #   - categories
 
 theme:
   name: material
   logo: assets/logo.jpg
+  icon:
+    repo: fontawesome/brands/git-alt
+  favicon: assets/logo.jpg
   features:
     - announce.dismiss
     - content.action.edit
@@ -38,10 +47,9 @@ theme:
     - search.share
     - search.suggest
     - toc.follow
-
   palette:
     - scheme: default 
-      primary: black
+      primary: purple
       accent: indigo
       toggle:
         icon: material/brightness-7
@@ -55,7 +63,6 @@ theme:
   font:
     text: Open Sans
     code: Open Sans
-
 extra:
   social:
     - icon: fontawesome/brands/twitter
@@ -64,3 +71,14 @@ extra:
       link: https://github.com/Hk669
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/hrushikeshdokala/
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/hkeshhk
+  generator: false
+plugins:
+  - search
+  - rss:
+      match_path: writing/posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories

@@ -1,3 +1,15 @@
+---
+date: 2024-01-30
+categories:
+    - LLMs
+    - AI
+slug: all-you-need-is-pydantic
+readtime: 12
+authors:
+  - Hrushikesh Dokala
+    
+---
+
 # all you need is pydantic
 
 Hey there, language enthusiasts! Ever wondered about the dynamic duo of Pydantic and the OpenAI instructor library? Well, you’re in for a treat. This blog is your ticket to exploring how these two pals can tag-team to make your language model interactions not just effective but downright awesome. Join me as we uncover the magic of combining Pydantic’s finesse with the OpenAI instructor library’s wizardry for a seamless and efficient NLP journey.
