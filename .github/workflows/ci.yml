@@ -13,25 +13,25 @@ jobs:
 
     steps:
       - name: Checkout Code 
-          uses: actions/checkout@v3 
+        uses: actions/checkout@v3 
 
       - name: Setup Python
-          uses: actions/setup-python@v4
-          with:
-            python-version: 3.x
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
             
       - name: Setup Cache     
-          uses: actions/cac he@v2
-          with:
-            key: ${{ github.ref }}
-            path: .cache
+        uses: actions/cac he@v2
+        with:
+          key: ${{ github.ref }}
+          path: .cache
 
 
       - name: Install Requirements
-          run: pip install -r requirements.txt
+        run: pip install -r requirements.txt
       
       - name: Build and Deploy
-          run: |
-            mkdocs build
-            mkdocs gh-deploy --force
+        run: |
+          mkdocs build
+          mkdocs gh-deploy --force
       
