@@ -21,7 +21,7 @@ jobs:
           python-version: 3.x
             
       - name: Setup Cache     
-        uses: actions/cac he@v2
+        uses: actions/cache@v2
         with:
           key: ${{ github.ref }}
           path: .cache
