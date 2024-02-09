@@ -12,7 +12,7 @@ authors:
 
 # Domain Name System
 
-> I think the basic to know before starting the web development, is to know how the web works.
+> I think the basic to know before starting the web development, is to know how the web actually works.
 
 You type “www.google.com” into your browser, and like magic, the Google homepage appears. But have you ever wondered 
 how your computer knows where to find Google in the vast ocean of the internet? Enter the unsung hero of the online world — the 
