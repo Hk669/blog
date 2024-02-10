@@ -6,7 +6,7 @@ categories:
 slug: domain-name-system
 readtime: 12
 authors:
-  - Hrushikesh Dokala
+  - hk
     
 ---
 
@@ -20,6 +20,8 @@ Domain Name System (DNS) server. Let’s embark on a journey to demystify DNS, u
 seamlessly to your favorite websites.
 
 ![dns](../images/dns.png)
+
+<!-- more -->
 
 ### Understanding the Basics
 

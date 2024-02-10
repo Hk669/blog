@@ -6,7 +6,7 @@ categories:
 slug: all-you-need-is-pydantic
 readtime: 12
 authors:
-  - Hrushikesh Dokala
+  - hk
     
 ---
 
@@ -19,6 +19,8 @@ Hey there, language enthusiasts! Ever wondered about the dynamic duo of Pydantic
 Why are we diving into this combo, you ask?
 
 Simple. Pydantic and the OpenAI instructor library aren’t just tools; they’re superheroes in the world of language processing. Together, they form a powerhouse that not only prompts models like a champ but also ensures the responses are top-notch and well-behaved. This blog? It’s your guide to making this dynamic duo work wonders. Perfect for developers and language lovers who want to make their NLP game strong!
+
+<!-- more -->
 
 ## Brief
 

@@ -7,7 +7,7 @@ categories:
 slug: visualize-deep-learning-model
 read-time: 12
 authors:
-    - Hrushikesh Dokala
+    - hk
 
 ---
 # Here’s why: To understand the layers in the best way!
@@ -17,6 +17,8 @@ authors:
 However, my fascination with visualization didn’t stop at data alone. As I dived into the world of deep learning and neural networks, I realized the critical importance of being able to visualize the complex architectures and inner workings of these complex models.
 
 Fortunately, Visualkeras comes to the rescue as a powerful tool that simplifies the process of visualizing deep learning models. In this blog post, we’ll delve into the world of Visualkeras and explore how it enables us to unlock the hidden secrets within our neural networks.
+
+<!-- more -->
 
 ### the Architecture of a Neural Network 
 
