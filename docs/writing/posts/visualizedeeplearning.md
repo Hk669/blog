@@ -46,7 +46,7 @@ Before diving into Visualkeras, let’s briefly discuss why visualization is cru
 
 Visualkeras is a Python library that simplifies the visualization of deep learning models using a unified and intuitive interface. It builds upon the popular Keras library and provides an interactive way to visualize the model’s architecture, making it easier to analyze and communicate complex network designs.
 
-```bash
+```py
 ! pip install visualkeras
 ```
 
@@ -56,7 +56,7 @@ With Visualkeras, we can generate comprehensive visualizations of our deep learn
 
 For more understanding let's build a simple model with 3 Dense layers
 
-```bash
+```py
 import keras
 from keras.models import Sequential
 from keras.layers import Dense
@@ -69,7 +69,7 @@ model.add(Dense(1, activation='sigmoid'))
 
 #### To visualize the above model
 
-```bash
+```py
 import visualkeras
 visualkeras.layered_view(model)
 ```
@@ -82,12 +82,12 @@ visualkeras.layered_view(model)
 Visualkeras allows us to export the visualizations in various formats, including image files (PNG, JPEG) and interactive HTML files. These export options enable us to seamlessly integrate visualizations into presentations, reports, or documentation, making it easier to convey our findings and share insights with others.
 
 ### saving the visualization in .png
-```bash
+```py
 visualkeras.layered_view(model).save('model_visualization.png')
 ```
 
 ### saving the visualization as interactive html
-```bash
+```py
 visualkeras.layered_view(model).to_html('model_visualization.html')
 ```
 #### Practical Use Cases:

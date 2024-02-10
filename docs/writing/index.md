@@ -16,3 +16,4 @@ i really wanted this to be automated. i want to make use of the voice model to g
 
 - [Domain Name System](../writing/posts/dns.md)
 - [all you need is pydantic](../writing/posts/pydantic.md)
+- [Visualize deep learning model](../writing/posts/visualizedeeplearning.md)

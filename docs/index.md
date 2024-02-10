@@ -11,6 +11,7 @@ I'm Hrushikesh Dokala, and I'm currently diving deep into retrieval augmented ge
 
 - [Domain Name System](./writing/posts/dns.md)
 - [all you need is pydantic](./writing/posts/pydantic.md)
+- [Visualize deep learning model](../writing/posts/visualizedeeplearning.md)
 
 
 ## Work History

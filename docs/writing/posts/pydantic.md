@@ -28,7 +28,7 @@ Before we jump into the fun stuff, let me give you the lowdown on Pydantic and t
 
 <b>Instructor </b>: Now, the instructor library is like the Swiss Army knife for talking to language models. It taps into OpenAI’s API and makes chatting with models a breeze. What’s cool? You use the same tool to ask questions and get answers. Talk about a smooth operator!
 
-```bash
+```py
 from instructor import patch
 from openai import OpenAI
 from pydantic import BaseModel
@@ -56,7 +56,7 @@ print(script)
 ```
 the output is now validated by the pydantic, which passes the response through the model and returns the script:
 
-```bash
+```json
 
 {
     'script': 'Once upon a time...',
@@ -78,7 +78,7 @@ the output is now validated by the pydantic, which passes the response through t
 
 now wonder how can we change the response directly from the llms, just extract the information from the llm and validate through the pydantic model using OpenAISchema from instructor.
 
-```bash
+```py
 from instructor import patch, OpenAISchema
 from pydantic import Field
 from openai import OpenAI
@@ -109,7 +109,7 @@ print(script)
 
 Hold onto your hats! When we run our script, we get a response that’s more than just words. Here’s the breakdown:
 
-```bash
+```json
 {
     'title': 'The Enchanted Forest',
     'scene': [

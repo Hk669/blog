@@ -1,7 +1,7 @@
 site_name: hk
 site_author: Hrushikesh Dokala
 repo_url: https://github.com/Hk669/blog/
-site_url: https://hk669.github.io/blog/
+site_url: https://blog.hrushikesh.xyz
 # base_url: /blog/
 repo_name: Hk669/blog
 edit_uri: edit/main/docs
@@ -68,6 +68,23 @@ theme:
     text: Open Sans
     code: Open Sans
 extra:
+  analytics:
+    provider: google
+    property: G-2E2ZC5EMHV
+    feedback:
+      title: Was this post helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: >-
+            Thanks for your feedback! Help me improve by 
+            using my <a href="..." target="_blank" rel="noopener">feedback</a>
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/hrushikeshhhh
@@ -78,6 +95,7 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/hkeshhk
   generator: false
+
 plugins:
   - search
   - rss:
