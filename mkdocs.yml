@@ -10,8 +10,10 @@ nav:
   - Home:
     - Home: 'index.md'
     - Writing: 'writing/index.md'
+    - DSA: https://dsa.hrushikesh.xyz
   - Writing:
     - writing: "writing/index.md"
+  - DSA: https://dsa.hrushikesh.xyz
     # - posts:
     #   - DNS: 'writing/posts/dns.md'
     #   - pydantic: 'writing/posts/pydantic.md'
