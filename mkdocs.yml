@@ -68,7 +68,7 @@ theme:
         name: Switch to light mode
   font:
     text: Open Sans
-    code: Open Sans
+    code: Roboto Mono
 markdown_extensions:
   - abbr
   - admonition
@@ -143,10 +143,14 @@ extra:
       link: https://linkedin.com/in/hrushikeshdokala/
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/hkeshhk
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/u/hk669
   generator: false
 
 plugins:
   - search
+  # - social:
+  #     enabled: !ENV [CI, false]
   - minify:
       minify_html: true
   - blog:
