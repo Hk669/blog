@@ -4,11 +4,14 @@ hide:
 ---
 # Hey there!
 
-I'm Hrushikesh Dokala, and I'm currently diving deep into retrieval augmented generation. I specialize in backend development and love contributing to open source projects.
+I'm Hrushikesh Dokala, and I'm currently diving deep into retrieval augmented generation. I specialize in backend development and love contributing to open source projects. I'm a **Beta** Microsoft Learn Student Ambassador
+
+**Fun fact**: When I'm not coding, you can find me on the football field, enjoying the beautiful game and staying active.
 
 
 ## Writing
 
+- [Docker](./writing/posts/docker.md)
 - [Domain Name System](./writing/posts/dns.md)
 - [all you need is pydantic](./writing/posts/pydantic.md)
 - [Visualize deep learning model](./writing/posts/visualizedeeplearning.md)
