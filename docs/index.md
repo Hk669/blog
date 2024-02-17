@@ -11,6 +11,7 @@ I'm Hrushikesh Dokala, and I'm currently diving deep into retrieval augmented ge
 
 ## Writing
 
+- [Large Language Models](./writing/posts/llms.md)
 - [Docker](./writing/posts/docker.md)
 - [Domain Name System](./writing/posts/dns.md)
 - [all you need is pydantic](./writing/posts/pydantic.md)
