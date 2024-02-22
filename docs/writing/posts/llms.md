@@ -48,8 +48,7 @@ I'll give a small overview on how internal architecture perform the generation a
 LLMs consist of two components
 
 #### Encoder
- the encoder is responsible for processing the input text and converting it into a high-dimensional(*embeddings*)   
- representation that captures its semantic meaning and contextual information.
+ the encoder is responsible for processing the input text and converting it into a high-dimensional(*embeddings*) representation that captures its semantic meaning and contextual information.
 
  the encoding phase, the LLM processes the input text token by token, generating contextualized embeddings for each token. 
  These embeddings contain rich information about the input text and are used as input for the subsequent decoding phase.
@@ -77,7 +76,7 @@ and fluent responses.
 
 In conclusion, Large Language Models (LLMs) represent a significant advancement in artificial intelligence, offering remarkable capabilities in understanding and generating human-like text.
 
-While each LLM may have its own strengths ad=nd limitations, but the final goal is to generate correct, contextual and relevant information for the user query
+While each LLM may have its own strengths and limitations, but the final goal is to generate correct, contextual and relevant information for the user query
 
 The main problem that is faced is the **biasness** and the **hallucination** of the information. they pretend to know 
 the information but they don't. same as humans, when they dont know the answer, they fabricate the responses and believe that the 

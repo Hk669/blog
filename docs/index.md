@@ -4,10 +4,11 @@ hide:
 ---
 # Hey there!
 
-I'm Hrushikesh Dokala, and I'm currently diving deep into retrieval augmented generation. I specialize in backend development and love contributing to open source projects. I'm a **Beta** Microsoft Learn Student Ambassador
+I'm Hrushikesh Dokala, and I'm currently diving deep into retrieval augmented generation. I specialize in backend development and love contributing to open source projects. I'm a **Beta** Microsoft Learn Student Ambassadors
+
+*Currently seeking internship opportunities. Grateful for any leads shared. Thank you in advance.*
 
 **Fun fact**: When I'm not coding, you can find me on the football field, enjoying the beautiful game and staying active.
-
 
 ## Writing
 
