@@ -24,6 +24,7 @@ Ever wondered how we ensure our data stays safe while transfering our data from 
 
 alright lets picturize this..
 
+<!-- more -->
 ![internet](../images/internet.png)
 
 
