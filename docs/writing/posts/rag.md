@@ -65,4 +65,4 @@ RAG brings together these components in a seamless manner, allowing for efficien
 
 this is it for the blog, hope y'all understood how the RAG works, try implementing some stuff around this concept and you'll be familiar with the detials of the architecture. the most used framework for building such applications is [LangChain](https://python.langchain.com/docs/get_started/introduction). 
 
-GitHub Repo for reference: [Link](https://github.com/Hk669/RAG/)
+GitHub Repo for reference: [Link](https://github.com/Hk669/discordAI-bot)
