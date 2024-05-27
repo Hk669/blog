@@ -4,11 +4,17 @@ hide:
 ---
 # Hey there!
 
-I'm Hrushikesh Dokala, and I'm currently diving deep into retrieval augmented generation. I specialize in backend development and love contributing to open source projects. I'm a **Beta** Microsoft Learn Student Ambassadors
+I'm Hrushikesh Dokala, and I'm currently diving deep into AI infrastructure and understanding LLMs. I specialize in backend development and love contributing to open source projects. I'm a **Beta** Microsoft Learn Student Ambassadors
 
 *Currently seeking internship opportunities. Grateful for any leads shared. Thank you in advance.*
 
 **Fun fact**: When I'm not coding, you can find me on the football field, enjoying the beautiful game and staying active.
+
+## Packages I Built
+
+built my own tokenizer package to train the Tokenizer of LLM.
+- [bpetokenizer](https://pypi.org/project/bpetokenizer/), supports special tokens and regex expression. (inspired from tiktoken)
+
 
 ## Writing
 
@@ -22,24 +28,12 @@ I'm Hrushikesh Dokala, and I'm currently diving deep into retrieval augmented ge
 ## Work History
 #### Open Source
 
+- [AutoGen](https://github.com/microsoft/autogen/pull/2596)
 - [Hack Club](https://github.com/hackclub/slash-z/pull/154)
 - [MLJAR supervised](https://github.com/mljar/mljar-supervised/pull/679)
 
 For more details about my work, feel free to explore my [portfolio](https://hrushikesh.xyz) site 
 
-## Startup
-
-As a Co-Founder of [AdVantage](https://advantagecommunity.in), we're spearheading a transformative movement in education, particularly aimed at tier 2 and 3 college students. Recognizing the common struggle many students face in connecting and networking with tech-savvy individuals, our platform serves as the ideal solution.
-
-Here's what sets us apart:
-
-- We curate high-quality and effective communities on our platform, ensuring students have access to the best resources.
-- All workshops hosted by these communities are entirely free for students, eliminating financial barriers to participation.
-- Students are encouraged to contribute by writing blogs, sharing insights, and engaging in discussions.
-- Our discussion forum facilitates direct interaction with seasoned tech professionals, providing invaluable mentorship and guidance.
-- In essence, we're not just a platform; we're a gateway to enhanced visibility, peer-to-peer learning, and sustainable growth for aspiring tech enthusiasts.
-
-> we're inviting developers and mentors to support us and contribute to make this a one stop place for the students.
 
 Thanks for stopping by!
 
