@@ -39,6 +39,8 @@ as mentioned in the latest paper [ROUTERBENCH: A Benchmark for Multi-LLM Routing
 
 As been a contributor to the AutoGen framework (Microsoft), i believe the multi agent setup can solve much more broader use cases than using a single model like GPT4, etc.. 
 
+![AutoGen](../images/autogen.png)
+
 - Every agent can be powered with a different LLM
 - Can add multiple agents into a groupchat making it much more diverse
 - You can also use the function calling to call you external APIs
@@ -51,6 +53,7 @@ This allows us to only allow agents which need lot of understanding and solve cr
 
 LLM Lingua is a method introduced by Microsoft that focuses on optimizing the input and output of large language models. By removing unnecessary tokens and words from the input, you can significantly reduce the cost of running the model. This method is particularly effective for tasks such as summarization or answering specific questions based on a transcript.
 
+![LLMLingua](../images/llmlingua.png)
 
 - Reduces the cost on input tokens
 - Uses the small model to compress your prompt and then pass it to the LLM
@@ -58,5 +61,4 @@ LLM Lingua is a method introduced by Microsoft that focuses on optimizing the in
 
 
 
-
-
+As a Lead GenAI Consultant at [VEnableAI](https://venableai.com), we provide a comprehensive array of services, including AI Agents Workflow and chatbots, designed to optimize performance and maximize results while minimizing costs.
