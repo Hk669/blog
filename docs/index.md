@@ -14,7 +14,7 @@ I'm Hrushikesh Dokala, and I'm currently diving deep into AI infrastructure and 
 
 built my own tokenizer package to train the Tokenizer of LLM.
 
-- [bpetokenizer](https://pypi.org/project/bpetokenizer/), supports special tokens and regex expression. (inspired from tiktoken)
+- [bpetokenizer](https://pypi.org/project/bpetokenizer/), supports special tokens and regex expression. (inspired from tiktoken) you can also read about this on [link](./posts/bpetokenizer.md).
 
 
 ## Writing
