@@ -4,11 +4,10 @@ hide:
 ---
 # Hey there!
 
-I'm Hrushikesh Dokala, and I'm currently diving deep into AI infrastructure and understanding LLMs. I specialize in backend development and love contributing to open source projects. I'm a **Beta** Microsoft Learn Student Ambassadors
+I'm Hrushikesh Dokala, and I'm currently a *Maintainer* at [AutoGen](https://github.com/microsoft/autogen), diving deep into AI infrastructure and building applications around AI Agents. I specialize in backend development and love contributing to open source projects. I'm a **Beta** Microsoft Learn Student Ambassadors.
 
 *Currently seeking internship opportunities. Grateful for any leads shared. Thank you in advance.*
 
-**Fun fact**: When I'm not coding, you can find me on the football field, enjoying the beautiful game and staying active.
 
 ## Packages I Built
 
