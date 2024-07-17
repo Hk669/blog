@@ -4,16 +4,16 @@ hide:
 ---
 # Hey there!
 
-I'm Hrushikesh Dokala, and I'm currently a *Maintainer* at [AutoGen](https://github.com/microsoft/autogen), diving deep into AI infrastructure and building applications around AI Agents. I specialize in backend development and love contributing to open source projects. I'm a **Beta** Microsoft Learn Student Ambassadors.
+I'm Hrushikesh Dokala, and I'm currently a **Maintainer** at [AutoGen](https://github.com/microsoft/autogen), diving deep into AI infrastructure and building applications around AI Agents. I specialize in backend development and love contributing to open source projects. I'm a **Beta** Microsoft Learn Student Ambassadors.
 
-*Currently seeking internship opportunities. Grateful for any leads shared. Thank you in advance.*
+*Currently seeking internship opportunities. Grateful for any referrals. Thank you in advance.*
 
 
 ## Packages I Built
 
 built my own tokenizer package to train the Tokenizer of LLM.
 
-- [bpetokenizer](https://pypi.org/project/bpetokenizer/), supports special tokens and regex expression. (inspired from tiktoken) you can also read about this on [link](./posts/bpetokenizer.md).
+- [bpetokenizer](https://pypi.org/project/bpetokenizer/), supports special tokens and regex expression. (inspired from tiktoken) you can also read about this on [link](./writing/posts/bpetokenizer.md).
 
 
 ## Writing
