@@ -2,7 +2,8 @@
 date: 2024-07-14
 categories:
     - Tokenizer
-    - Large Langauge Models
+    - LLMs
+    - AI
 slug: bpetokenizer
 readtime: 12
 authors:
@@ -22,6 +23,7 @@ this algorithm is first introduced in the paper [Neural Machine Translation of R
 
 Every LLM(LLama, Gemini, Mistral..) use their own Tokenizers trained on their own text dataset.
 
+<!-- more -->
 
 ### Features
 
