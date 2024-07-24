@@ -17,6 +17,8 @@ Are you a developer seeking to dive into the world of open-source projects but o
 
 Open-source projects offer a fantastic opportunity to learn new skills, contribute to the community, and showcase your talents to potential employers. However, finding projects that align with your interests and expertise can be challenging. GitMatch simplifies this process by providing personalized project suggestions based on your preferences.
 
+<!-- more -->
+
 ### Key Features
 
 #### **1. Quick Recommendations**
