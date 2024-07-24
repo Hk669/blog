@@ -219,13 +219,14 @@ I use AWS Amplify(service for deploying static sites) for my client and AWS EB f
 
 ### Client
 
-    - [X] Update the server uri in the build
-    - [X] Also remove all the console statements to not disclose any information
+- [X] Update the server uri in the build
+- [X] Also remove all the console statements to not disclose any information
+- [X] Add the SSL Certificate to the client
 
 ### Server
 
-    - [X] Update the Security Rules for the environment (Inbound and Outbound)
-    - [X] Update the client uri in the ENV Variables and other if required
-    - [X] If using any Auth providers, append your server uri
-    - [X] If using HTTPS, add the `Listener` for port 443 and select the SSL certificate from ACM
+- [X] Update the Security Rules for the environment (Inbound and Outbound)
+- [X] Update the client uri in the ENV Variables and other if required
+- [X] If using any Auth providers, append your server uri
+- [X] If using HTTPS, add the `Listener` for port 443 and select the SSL certificate from ACM
 
