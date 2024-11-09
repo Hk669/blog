@@ -21,6 +21,8 @@ The unique hiring process of the Atlan, validates its candidates on the technica
 
 After a week of submission recieved a mail, we loved your solution and moving forward with your applicaiton.
 
+<!-- more -->
+
 ### Technical Interview
 
 The interview began with a senior software engineer who introduced himself and explained that another interviewer would join us in about 15 minutes. After our introductions, we dove straight into the high-level design (HLD) discussion of the take home assignment.
