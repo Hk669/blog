@@ -29,12 +29,16 @@ The interview began with a senior software engineer who introduced himself and e
 
 #### Key Questions and Challenges
 During the HLD, I encountered a few questions that required careful thought:
+
 - **Why both a load balancer and an API gateway?**
+
 - **Using Redis, a key-value store, as a queue – how does that work?**
 
 On a positive note, I was able to answer some questions well:
+
 - **Why not use WebSockets for two-way communication in this case?**
-  - I explained that, for this specific application, polling would be more efficient than WebSockets.
+
+- I explained that, for this specific application, polling would be more efficient than WebSockets.
 
 After around 20 minutes discussing the HLD, we moved on to a coding question: **find the largest palindromic number that can be achieved by the product of two 3-digit numbers.**
 
@@ -42,7 +46,9 @@ After around 20 minutes discussing the HLD, we moved on to a coding question: **
 I started by explaining a brute-force approach and began coding. However, I initially stumbled when structuring the code into a function and accidentally forgot to join the reversed object after converting it to a list. Fortunately, the interviewers helped me debug, and I managed to complete the solution.
 
 The last 15 minutes involved discussing:
+
 - **Data governance** and internal processes
+
 - **AI integrations** they were building to boost productivity and improve client interactions
 
 I also shared my experience with my marketing agent workflow, which seemed to resonate well with them. The conversation wrapped up on a positive note, and I sent a thank-you email to the recruiter afterward. Now, I'm awaiting the results and hoping for a call for the next round—fingers crossed.
@@ -56,6 +62,7 @@ The cultural round kicked off with introductions. The interviewer shared his bac
 We discussed my college experiences, remote working with **AutoGen, VEnable AI, and ForgeWize**, and my ability to work independently. Things were going well, although, midway, I sensed a slight shift in his interest as he checked his phone occasionally, which felt a bit off-putting.
 
 One insightful question he asked was:
+
 - **If I were to call the founders of the startups you worked with previously, what’s one pro and one con they might mention about you?**
 
 When he invited me to ask questions, I did, and we concluded the meeting. Despite the minor interruptions, I felt the cultural round went well. I’m hopeful for a positive outcome but know that whatever happens, this has been a valuable learning experience.
