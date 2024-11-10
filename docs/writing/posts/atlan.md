@@ -9,7 +9,7 @@ authors:
     
 ---
 
-![alt text](../images/atlan.png)
+![Atlan logo](../images/atlan.png)
 
 ## My Journey to Atlan: An Interview Experience
 

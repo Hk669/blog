@@ -18,6 +18,7 @@ built my own tokenizer package to train the Tokenizer of LLM.
 
 ## Writing
 
+- [Atlan Interview Process](./writing/posts/atlan.md)
 - [RAG](./writing/posts/rag.md)
 - [Large Language Models](./writing/posts/llms.md)
 - [Docker](./writing/posts/docker.md)
